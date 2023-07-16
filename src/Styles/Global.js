@@ -209,5 +209,30 @@ body {
     align-items: center;
 }
 
+.links{
+    display: flex;
+    width: 600px;
+}
+
+.linkedIn{
+    display: flex;
+    margin-right: 20px;
+    align-items: center;
+    font-size: 20px;
+    text-decoration: none; 
+}
+
+.github{
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.l-logo, .g-logo{
+    width: 25px;
+    margin-right: 5px;
+
+}
 
 `
